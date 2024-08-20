@@ -1,0 +1,23 @@
+body{
+    box-sizing: 0;
+    margin: 0;
+    padding: 0;
+   background-image: url("../image/Capture.png");
+   background-size: cover;
+
+}
+.content{
+    color: white;
+    width: 70%;
+    height:70%;
+    text-align: center;
+    margin-top:20%;
+    margin-left:15%;
+    background-color: black;
+    opacity: .7;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
